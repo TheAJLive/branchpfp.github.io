@@ -1,0 +1,60 @@
+Red;Unlocked by default;Default;0
+Yellow;Unlocked by default;Default;0
+Green;Unlocked by default;Default;0
+Blue;Unlocked by default;Default;0
+Purple;Unlocked by default;Default;0
+Gray;Unlocked by default;Default;0
+Published!;Upload a level;Achievement;0
+Blinding Lights;Have a Spotlighted Level;Achievement;0
+Pink;Buy in Gelatin's Shop;Solid Color;500
+Orange;Buy in Gelatin's Shop;Solid Color;500
+Cyan;Buy in Gelatin's Shop;Solid Color;500
+White;Buy in Gelatin's Shop;Solid Color;500
+Black;Buy in Gelatin's Shop;Solid Color;500
+Rainbow;"Butterfly in the sky, I can go twice as high.";Pattern;1000
+Desert Gradient;Hottest background around.;Pattern;1000
+Day;Afraid of the dark? Gotcha covered!;Location;1500
+Night;Afraid of the light? Gotcha covered!;Location;1500
+TItlescreen;For REAL fans!;Location;1500
+5b 1;"Whoa! Hold on a second, this place doesn't look familiar.";Location;1500
+5b 2;The original BFDI platformer, which gamers from nine to five be playing.;Location;1500
+Painted;"Don't listen to X. Your art is wonderful!";Pattern;1000
+Blueprint;Choose this to give credibility to your latest scientific theory!;Pattern;1000
+Gold;For people who like winning.;Pattern;1000
+Silver;For people who like almost winning.;Pattern;1000
+Clouds;"What do you think that cloud looks like?";Pattern;1000
+Clubhouse;The real gem of Paris, France.;Location;1500
+Gelatins Steakhouse;"Four stars. Could use more shades." -Yoyelp reviews;Location;1500
+Evil Forest;As opposed to the fabled Good Forest guarded by Good Leafy.;Location;1500
+Yoyle City;"FreeSmart, could you stop flying your van here? Our property values are declining due to a 'UFO problem.'";Location;1500
+Gelatins Shadehouse;"Four stars. Could use more steak." -Yoyelp reviews;Location;1500
+Science Museum;A must-have for fans of the nerdy ball duo!;Location;1500
+Yoyleland;We had to walk 2,763 miles to take this picture. I hope you're happy.;Location;1500
+Goiky;The original plane.;Location;1500
+Gray Checkerboard;Buy in Gelatin's Shop;Solid Color;500
+Brown Checkerboard;Buy in Gelatin's Shop;Solid Color;500
+Pink Checkerboard;Buy in Gelatin's Shop;Solid Color;500
+Blue Checkerboard;Buy in Gelatin's Shop;Solid Color;500
+Red Checkerboard;Buy in Gelatin's Shop;Solid Color;500
+Green Checkerboard;Buy in Gelatin's Shop;Solid Color;500
+White Checkerboard;Buy in Gelatin's Shop;Solid Color;500
+Goiky Cavern;Complete 5 Difficulty 7 Levels;Achievement;0
+Twenty Ten;Complete 20 Spotlighted Levels;Achievement;0
+Buttons;"What's going to happen when you push the first button?";Pattern;1000
+Bricks;"I love building brown bricks in Branches.";Pattern;1000
+Underground Factory;"Welcome to the underground.";Location;1500
+IDFB Intro;sehcnarB :IDFB;Location;1500
+BFB Intro;Battle for Branches;Location;1500
+Kaizo Firey;Complete 7 Difficulty 7 Levels;Achievement;0
+Lava;"I lava you.";Pattern;1000
+Abstract;"Penta abstracted? Why didn't anybody tell me?";Pattern;1000
+mationsBOMB's Background;Developer PFP;Developer;N/A
+Sebota's Background;Developer PFP;Developer;N/A
+Meester Tweester's Background;Developer PFP;Developer;N/A
+Yoshi Egg's Background;Developer PFP;Developer;N/A
+Bryin's Background;The most creative background in the game;Developer;N/A
+AnimationJ's Background;Developer PFP;Developer;N/A
+APVCoffee's Background;Developer PFP;Developer;N/A
+Barfy's Background;Developer PFP;Developer;N/A
+Doret's Background;Developer PFP;Developer;N/A
+AndrewNursh's Background;Developer PFP;Developer;N/A
