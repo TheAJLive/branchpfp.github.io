@@ -1,0 +1,59 @@
+Firey;"KEEP THOSE NECK MUSCLES EXTENDED!";Default;0
+Leafy;"Blue skidoo, we can too!";Default;0
+Coiny;"Wheel Ooze A Whole Bunch!";Default;0
+Pin;"What? That's crazy!";Default;0
+Announcer;"I'm sorry, Penta. I'm afraid I can't allow that.";Speaker Box;4000
+Golf Ball;"I have a 5.882% chance of joining the game!";Season 1 Contestant;1000
+Tennis Ball;"Because Evil Leafy moves instantaneously, the door never registers it as motion!";Season 1 Contestant;1000
+Blocky;"For a prank, spawn a player above a pit!";Season 1 Contestant;1000
+Eraser;"Pentagons are EXTREMELY SCARY!";Season 1 Contestant;1000
+Pen;"My legal name is actually... [B]en.";Season 1 Contestant;1000
+Woody;"AAWAWAWAWAWAWAWAWAWAWAWAWAWAWAWAWA!";Season 1 Contestant;1000
+Needle;"DON'T CALL ME NEEDY!";Season 1 Contestant;1000
+Snowball;"Baking cakes without recipes is almost as bad as baking a cake out of TWO. METAL. BALLS!!";Season 1 Contestant;1000
+Teardrop;" ";Season 1 Contestant;1000
+Pencil;"Shut up and GET IN THE VAN!";Season 1 Contestant;1000
+Match;"Yeah, I know, she was so surprised.";Season 1 Contestant;1000
+Flower;"Ha, ha! I'm wearing Non-Slip Shoes So Ha!";Season 1 Contestant;1000
+Ice Cube;"I want revenge!";Season 1 Contestant;1000
+Bubble;"Yoylecake!";Season 1 Contestant;1000
+Rocky;"Mm-HMM!";Season 1 Contestant;1000
+Spongy;"I ain't helping someone who called me ugly.";Season 1 Contestant;1000
+David;"AW, SERIOUSLY?";Season 1 Contestant;1000
+Penta;Good thing Eraser isn't here.;Speaker Box;4000
+Branching Out;Complete 10 Spotlighted Levels;Achievement;0
+Cake;Not the contestant, safe to eat.;Element;500
+Spring;"BOING!";Element;500
+Difficulty Spike;Complete 1 Difficulty 7 Level;Achievement;0
+Hello, World!;Make an account on day one;Event;N/A
+W.I.P.;Beta test BFDI: Branches;Event;N/A
+I Found A Bug;Beta test BFDI: Branches;Event;N/A
+Purple Bug;Goiky's strongest soldier, menacingly marching at a snail's pace.;Element;500
+Shellmet;These little glass globes rely on their senses to follow the player around.;Element;500
+Strikey;A bowling ball ready to strike, it's got guts to spare!;Element;500
+Poker;A syringe whose dream job was being a heat-seaking missile.;Element;500
+Win Token;Yahaha! You found me!";Element;500
+Godot;Our pal who was the engine for the game, Go-dot. Or is it Gu-dough?;Expensive;7000
+Parapura;Two-eyed, two-winged, flying, purple object eater!;Element;500
+3D Announcer;An Announcer who broke free from Flatland, into the Z-axis!;Expensive;7000
+hp=0;Complete 10 Difficulty 7 Levels;Achievement;0
+Branches Bunch;Complete 50 Spotlighted Levels;Achievement;0
+Professor Speaker Box;The smartest speaker box of them all, who got his degree in yapology.;Speaker Box;4000
+Red Shellmet;What's red, spiked, and likes to stab? No, it's not Pin.;Element;500
+Gutter Ball;When this poor fellow goes bowling, they ask for the rails.;Element;500
+Red Bugs;Okay, this is an even stronger bug, but this time actually turning around on ledges.;Element;500
+Secret Spike;"Mwahahahahahahahahaha!";Expensive;15000
+Gears;If you wanna CRANK up your look, this is a HIGH-GEAR choice.;Element;500
+Profiley;Uh, move the camera over!;Location;100
+mationsBOMB;Developer PFP;Developer;N/A
+Sebota;Developer PFP;Developer;N/A
+Meester Tweester;Developer PFP;Developer;N/A
+Yoshi Egg;Developer PFP;Developer;N/A
+Bryin;Unused Developer PFP. (he can't use this pfp because he doesn't have an account lmao);Developer;N/A
+AnimationJ;Developer PFP;Developer;N/A
+APVCoffee;Developer PFP;Developer;N/A
+Barfy;Developer PFP;Developer;N/A
+Doret;Developer PFP;Developer;N/A
+Cat;;Expensive;7000
+AndrewNursh;Developer PFP;Developer;N/A
+GDNacho;Developer PFP;Developer;N/A
